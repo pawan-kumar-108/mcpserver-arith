@@ -1,0 +1,1 @@
+a mcp server for arithmetic calculations
